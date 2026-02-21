@@ -1,1 +1,1 @@
-# Skill4u_edunet
+# Forest Fire Detection
